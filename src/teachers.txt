@@ -1,0 +1,15 @@
+Name           Lastname            Fathername     Birthdate      Email                 Telephone     Job       Code      Department  Specialty   EmployeeID  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+Nikolaos       Psilos              Sotiris        22/07/1985     nikosnikos@gmail.com  6989762310    TEACHER   A45321    A           A           1111        
+Athina         Papa                Kyriakos       14/05/1984     athinaPa@gmail.com    6921556738    TEACHER   B47651    B           B           2222        
+Dimitris       Papadopoulos        Alexandrou     04/02/1972     dimitris@gmail.com    6978123456    TEACHER   B473222   C           C           3333        
+Sofia          Karagianni          Nikolaou       23/05/1990     sofia@gmail.com       6940567890    TEACHER   X23451    D           D           4444        
+Panagiotis     Georgiou            Konstantinou   13/11/1986     panos@gmail.com       6978234567    TEACHER   P24678    E           E           5555        
+Eleni          Kontogiorgi         Andrea         08/12/1989     eleni@gmail.com       6987654321    TEACHER   F56789    F           F           6666        
+Anastasia      Katsanti            Dimitriou      10/03/1965     anastasia@gmail.com   6954321098    TEACHER   T66751    G           G           7777        
+Nikos          Dimitriadis         Konstantinou   09/03/1980     nikos@gmail.com       6978901234    TEACHER   K45782    K           K           8888        
+Maria          Stavridi            Alexandrou     11/11/1977     maria@gmail.com       6923456789    TEACHER   K34451    L           L           9999        
+Alexandros     Pantelidis          Vassiliou      15/12/1969     alexandros@gmail.com  6978123456    TEACHER   M76543    M           M           0000        
+George         Nikolaou            Ksenofon       03/04/1970     george@gmail.com      6985667312    TEACHER   O24567    N           N           1000        
+Anna           Katsa               Aleksandrou    27/10/1990     annnakat@gmail.com    6981221365    TEACHER   H64821    L           L           2000        
+Maria          Papadopoulou        Mixali         25/03/1990     mariaPap@gmail.com    6936923884    TEACHER   B47699    O           O           3000        

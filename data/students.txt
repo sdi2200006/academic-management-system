@@ -1,0 +1,12 @@
+Name           Lastname            Fathername     Birthdate      Email                 Telephone     Job       Code      AM              Semester  
+----------------------------------------------------------------------------------------------------------------------------------------------------------- 
+Mila           Zambolokikova       Andreas        10/08/1998     zoumbi@gmail.com      6925337689    STUDENT   P82910    1115201700089   13        
+Konstantinos   Antoniou            Iordanis       24/04/1999     konkon@gmail.com      6956889246    STUDENT   T82619    1115201800001   11        
+Anikitos       Perathorakis        Vaggelis       05/01/2001     anik@gmail.com        6932232478    STUDENT   K54213    1115201900001   9         
+Anestis        Palaiologou         Stelios        23/11/2000     anestis@gmail.com     6985662345    STUDENT   H61820    1115202000001   7         
+Aimilia        Vakaki              Antonis        18/06/2004     emivaka@gmail.com     6942113256    STUDENT   K03472    1115202100003   5         
+Antonis        Spirounis           George         16/02/2000     antsp@gmail.com       6973221245    STUDENT   B55433    1115202100004   5         
+Eleni          Antoniou            Panagiotis     03/12/2003     eleni@gmail.com       6912345678    STUDENT   A12345    1115202200006   3         
+Meropi         Apostolaki          Ioannis        09/11/2004     meropi@gmail.com      6945678912    STUDENT   N04321    1115202200008   3         
+Paraskeuas     Basileiou           Jason          22/12/2000     vasvas@gmail.com      6932556784    STUDENT   X00653    1115202200033   3         
+Izambela       Klostraki           George         12/03/2002     izzz@gmail.com        6956789012    STUDENT   M62902    1115202300106   1         

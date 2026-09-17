@@ -1,0 +1,11 @@
+Title                                   Code  Semester   Ects   Faculty
+---------------------------------------------------------------------------------------------------
+Programming-Fundamentals                k11   1          30     1      
+Data-Structures-and-Algorithms          k18   7          25     0      
+Linear-Algebra                          k07   2          42     1      
+Marketing                               k22   8          15     0      
+Organic-Chemistry                       k01   1          40     1      
+Advanced-Databases                      k13   3          51     1      
+Human-Computer-Interaction              k05   4          44     0      
+Cyber-Security                          k06   6          27     0      
+Software-Engineering                    k12   5          35     1      
